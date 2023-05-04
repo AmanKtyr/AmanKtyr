@@ -1,7 +1,7 @@
 [![MasterHead](https://jusmarktech.com/public/a/images/pages/web_development.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Aman Katiyar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Aman Ktyr" width="300" src="https://bestarion.com/wp-content/uploads/2021/03/Web-Developer.jpg">
+<img align="right" alt="Aman Ktyr" width="300" src="https://media.licdn.com/dms/image/D4D03AQHwC9Dhe0fBmw/profile-displayphoto-shrink_800_800/0/1675176256177?e=2147483647&v=beta&t=K502-3v5xDDZesuc6Q0I6sVfmeP6IEyEHJNDJiJsQrM">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amanktyr&label=Profile%20views&color=0e75b6&style=flat" alt="amanktyr" /> </p>
 
