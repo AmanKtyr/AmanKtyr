@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **amanktyrrr@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1YMOfCNY-Ap1YE7WVNrxKemeZ1ywF8mt3/edit?usp=sharing&ouid=116118156127496110643&rtpof=true&sd=true](https://docs.google.com/document/d/1YMOfCNY-Ap1YE7WVNrxKemeZ1ywF8mt3/edit?usp=sharing&ouid=116118156127496110643&rtpof=true&sd=true)
+- 📄 Know about my experiences https://drive.google.com/file/d/1bLDigI0OoDmsjKloUoMZgZtdmFR21Dcq/view?usp=sharing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
