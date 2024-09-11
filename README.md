@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **SMS**
 
-- 🌱 I’m currently learning **React native, php**
+- 🌱 I’m currently learning **ASP.NET CORE**
 
 - 👨‍💻 All of my projects are available at [https://beacons.ai/amanktyr](https://beacons.ai/amanktyr)
 
-- 💬 Ask me about **react, java, python,js**
+- 💬 Ask me about ** ASP.NET CORE,react, java, python,js**
 
 - 📫 How to reach me **amanktyrrr@gmail.com**
 
