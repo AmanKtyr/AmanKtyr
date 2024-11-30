@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amanktyr&label=Profile%20views&color=0e75b6&style=flat" alt="amanktyr" /> </p>
 
-- 🔭 I’m currently working on **SMS**
+- 🔭 I’m currently working on **Sipher web **
 
-- 🌱 I’m currently learning **ASP.NET CORE**
+- 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available at [https://beacons.ai/amanktyr](https://beacons.ai/amanktyr)
+- 👨‍💻 All of my projects are available at https://amanktyr.netlify.app/
 
 - 💬 Ask me about ** ASP.NET CORE,react, java, python,js**
 
