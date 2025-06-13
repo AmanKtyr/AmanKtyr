@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at https://amanktyr.netlify.app/
 
-- 💬 Ask me about ** python,js,ASP.NET CORE,react, java,**
+- 💬 Ask me about ** python,js,ASP.NET CORE,react, java, SEO **
 
 - 📫 How to reach me **amanktyrrr@gmail.com**
 
