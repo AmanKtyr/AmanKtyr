@@ -9,13 +9,13 @@
    
 - 🌱 I’m currently learning **NextJS and GenAI**
 
-- 👨‍💻 All of my projects are available at https://amanktyr.netlify.app/
+- 👨‍💻 All of my projects are available at https://aman.ktyr.in
 
 - 💬 Ask me about ** python,js,ASP.NET CORE,react, java, SEO **
 
 - 📫 How to reach me **amanktyrrr@gmail.com**
 
-- 📄 Know about my experiences https://drive.google.com/file/d/1bLDigI0OoDmsjKloUoMZgZtdmFR21Dcq/view?usp=sharing
+- 📄 Know about my experiences www.aman.ktyr
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
