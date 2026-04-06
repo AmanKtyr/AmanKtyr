@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amanktyr&label=Profile%20views&color=0e75b6&style=flat" alt="amanktyr" /> </p>
 
-- 🔭 I’m currently working on **Sipher web **
-
-- 🌱 I’m currently learning **Python**
+- 🔭 I’m currently working on **Bhatt Square Pvt. Ltd. **
+   
+- 🌱 I’m currently learning **NextJS and GenAI**
 
 - 👨‍💻 All of my projects are available at https://amanktyr.netlify.app/
 
