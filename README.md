@@ -1,7 +1,7 @@
 [![MasterHead](https://jusmarktech.com/public/a/images/pages/web_development.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Aman Katiyar</h1>
 <h3 align="center">A passionate Web developer from India</h3>
-<img align="right" alt="Aman Ktyr" width="auto" height="400" src="https://i.pinimg.com/564x/98/a8/9f/98a89f131347938e12239c1de4d9ff44.jpg">
+
 
 
 
