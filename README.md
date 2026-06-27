@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Web developer from India</h3>
 <img align="right" alt="Aman Ktyr" width="auto" height="400" src="https://i.pinimg.com/564x/98/a8/9f/98a89f131347938e12239c1de4d9ff44.jpg">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amanktyr&label=Profile%20views&color=0e75b6&style=flat" alt="amanktyr" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=amanktyr&label=Profile%20views&color=0e75b6&style=flat" alt="amanktyr" /> </p> -->
 
 - 🔭 I’m currently working on **Bhatt Square Pvt. Ltd. **
    
