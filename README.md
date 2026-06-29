@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **amanktyrrr@gmail.com**
 
-- 📄 Know about my experiences www.aman.ktyr
+- 📄 Know about my experiences www.aman.ktyr.in
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
